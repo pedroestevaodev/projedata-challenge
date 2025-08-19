@@ -1,3 +1,26 @@
+/**
+ * Olá! Seja bem-vindo(a) ao código :)
+ *
+ * Vou ser bem sincero: já fazia bastante tempo que eu não trabalhava com Java.
+ * Profissionalmente, minha última experiência sólida com a linguagem foi há uns
+ * 2 anos. Depois disso, voltei a rever os conceitos principais no primeiro semestre
+ * do ano passado.
+ *
+ * Nesse processo precisei revisitar e reforçar vários fundamentos importantes:
+ * - Boas práticas do próprio Java
+ * - Criação de classes
+ * - Herança e Polimorfismo
+ * - Responsabilidade Única
+ * - Programação Orientada a Objetos no geral (kkkkk)
+ *
+ * Embora eu tenha começado a trabalhar com Java na empresa CIAware,
+ * acabei me especializando mais em JavaScript/TypeScript, principalmente
+ * para uso no Front-End.
+ *
+ * Ainda assim, estou muito disposto a me desenvolver ainda mais com Java
+ * e dominá-lo de vez.
+ */
+
 package br.com.empresa;
 
 import java.math.BigDecimal;
