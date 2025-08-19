@@ -96,7 +96,9 @@ cd projedata-challenge
 ## License
 
 This project is open source and available under the [MIT License](https://mit-license.org/).
+<br />
 
 ---
 
+<br />
 **Built with ☕ and 💻 for learning and best practices in Java.**
